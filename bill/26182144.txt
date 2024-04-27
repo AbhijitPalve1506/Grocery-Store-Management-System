@@ -1,0 +1,19 @@
+
+	XYZ-Grocery Store,
+	Mumbai-400033  
+======================================
+ Customer Name: a
+ Email: palweabhijeet@gmail.com
+ Ph No.: 214
+ Bill No.26182144		Date:26/04/2024   
+======================================
+ Product Name		QTY	Price
+======================================
+ Veg atta		1	Rs.12.0
+======================================
+ Bill Amount		Rs.12.0
+ Discount		Rs.0.6
+ Net Pay		Rs.11.4
+======================================
+
+

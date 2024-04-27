@@ -1,0 +1,19 @@
+
+	XYZ-Grocery Store,
+	Mumbai-400033  
+======================================
+ Customer Name: cxz
+ Email: palweabhijeet@gmail.com
+ Ph No.: 2413
+ Bill No.26186847		Date:26/04/2024   
+======================================
+ Product Name		QTY	Price
+======================================
+ bingo		1	Rs.10.0
+======================================
+ Bill Amount		Rs.10.0
+ Discount		Rs.0.5
+ Net Pay		Rs.9.5
+======================================
+
+

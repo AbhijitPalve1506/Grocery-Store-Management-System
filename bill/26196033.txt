@@ -1,0 +1,19 @@
+
+	XYZ-Grocery Store,
+	Mumbai-400033  
+======================================
+ Customer Name: qw
+ Email: palweabhijeet@gmail.com
+ Ph No.: 34
+ Bill No.26196033		Date:26/04/2024   
+======================================
+ Product Name		QTY	Price
+======================================
+ madangles		4	Rs.48.0
+======================================
+ Bill Amount		Rs.48.0
+ Discount		Rs.2.4
+ Net Pay		Rs.45.6
+======================================
+
+

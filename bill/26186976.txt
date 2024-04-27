@@ -1,0 +1,19 @@
+
+	XYZ-Grocery Store,
+	Mumbai-400033  
+======================================
+ Customer Name: Abhis
+ Email: palweabhijeet@gmail.com
+ Ph No.: 7464
+ Bill No.26186976		Date:26/04/2024   
+======================================
+ Product Name		QTY	Price
+======================================
+ bingo		2	Rs.20.0
+======================================
+ Bill Amount		Rs.20.0
+ Discount		Rs.1.0
+ Net Pay		Rs.19.0
+======================================
+
+
